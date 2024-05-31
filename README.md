@@ -1,6 +1,6 @@
 # Students Payments Management APP (front)
 
-<center><img src="https://github.com/m-mourouh/student-pay-front/assets/60442896/c59ff6db-a0a0-490c-b475-843fc2a584d7"/></center>
+<center style="text-align: center;"><img src="https://github.com/m-mourouh/student-pay-front/assets/60442896/c59ff6db-a0a0-490c-b475-843fc2a584d7"/></center>
 
 # Application Demo
 
